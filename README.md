@@ -2,4 +2,4 @@
 
 code is hosted [here](https://gitlab.com/momentolabs/mmnto-ng-multimedia-capture)
 
-more coming soon
+https://www.npmjs.com/package/@momento/ng-mutlimedia-capture
